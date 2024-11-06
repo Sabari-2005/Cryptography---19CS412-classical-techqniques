@@ -66,7 +66,8 @@ if (isupper(plain[i]) && (cipher[i] > 'Z'))
 ```
 
 ## OUTPUT:
-![output 1](https://github.com/user-attachments/assets/eec3b500-f079-4f08-b7d0-5bdeed7632a3)
+![image](https://github.com/user-attachments/assets/79d0afa1-e5dd-42e3-bd29-e50d085f577b)
+
 
 ## RESULT:
 The program is executed successfully
@@ -272,7 +273,8 @@ int main() {
 
 ```
 ## OUTPUT:
-![output 2](https://github.com/user-attachments/assets/3758c48b-e0fd-48c2-bd8d-2941eaa7f9b1)
+![image](https://github.com/user-attachments/assets/ca10c77f-9db0-4707-aed5-8b744408ca4a)
+
 
 
 ## RESULT:
@@ -352,7 +354,8 @@ return 0;
 
 ```
 ## OUTPUT:
-![output 2](https://github.com/user-attachments/assets/84bbc593-9cb6-4ad6-91e5-94a6c09265d9)
+![image](https://github.com/user-attachments/assets/c94b7c82-9d98-41e6-8a3e-999d59016fee)
+
 
 ## RESULT:
 The program is executed successfully
@@ -450,7 +453,8 @@ printf("%c",65 + (value % 26));
 ```
 
 ## OUTPUT:
-![output 3](https://github.com/user-attachments/assets/527cb005-7ee6-46d9-bc34-ef18dfe2517f)
+![image](https://github.com/user-attachments/assets/a2e64503-6570-4e26-a9ab-44dd692fce23)
+
 
 ## RESULT:
 The program is executed successfully
@@ -530,7 +534,9 @@ printf("%s",d);
 }
 ```
 ## OUTPUT:
-![output 4](https://github.com/user-attachments/assets/7af7375f-8185-45dc-8dfd-77758ae5fc55)
+![image](https://github.com/user-attachments/assets/ba128b1f-ac8d-4ecf-a1b7-1af7363c4b00)
+
+
 
 ## RESULT:
 The program is executed successfully
